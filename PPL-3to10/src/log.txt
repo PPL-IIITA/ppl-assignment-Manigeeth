@@ -1,0 +1,17 @@
+Alternate Matching
+        Time Stamp        couple_id
+2017-04-10 09:06:24.931 boy27 and girl6
+2017-04-10 09:06:24.931 boy32 and girl3
+2017-04-10 09:06:24.931 boy31 and girl8
+2017-04-10 09:06:24.931 boy9 and girl2
+2017-04-10 09:06:24.931 boy33 and girl1
+2017-04-10 09:06:24.931 boy34 and girl15
+2017-04-10 09:06:24.931 boy26 and girl11
+2017-04-10 09:06:24.931 boy35 and girl16
+2017-04-10 09:06:24.931 boy14 and girl17
+2017-04-10 09:06:24.931 boy36 and girl12
+2017-04-10 09:06:24.931 boy7 and girl7
+2017-04-10 09:06:24.931 boy16 and girl5
+2017-04-10 09:06:24.931 boy18 and girl4
+2017-04-10 09:06:24.931 boy1 and girl13
+2017-04-10 09:06:24.931 boy2 and girl14
